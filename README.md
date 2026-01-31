@@ -64,7 +64,7 @@ Explainable deep learning system for multiclass skin lesion classification
 
 - **Programming & Databases:** Python, Java (Basics), MySQL
 - **Machine Learning & AI:** Machine Learning, Deep Learning, Feature Engineering, Exploratory Data Analysis (EDA), Model Evaluation & Optimization
-- **Computer Vision:** ResNet, EfficientNet, ConvNeXtV2, Vision Mamba, VGG16, YOLO, OpenCV, Grad-CAM
+- **Computer Vision:** ResNet, EfficientNet, ConvNeXtV2, Vision Mamba, VGG16, YOLO, OpenCV, Faster-RCNN, RT-DETR, Grad-CAM
 - **Data Analysis & Visualization:** Matplotlib, Seaborn, Tableau, Power BI
 - **Tools & Platforms:** PyTorch, Streamlit, Git, GitHub
 - **Soft Skills:** Problem Solving, Communication, Time Management, Adaptability, Teamwork
