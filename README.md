@@ -1,6 +1,6 @@
 <h1 align="center">JAZILA BEGUM</h1>
 <p align="center">
-  <b>AI & Data Science Enthusiast | ML & Deep Learning | Computer Vision | Azure & Oracle Certified | Analytics</b>
+  <b>AI & Data Science Enthusiast | Azure & Oracle Certified | ML & Deep Learning | Computer Vision | Analytics</b>
 </p>
 
 Hello, I’m Jazila! 👩‍💻🌸✨
