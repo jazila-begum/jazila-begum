@@ -82,12 +82,3 @@ Explainable deep learning system for multiclass skin lesion classification
 - Pandas — Kaggle
 - Computer Vision — Kaggle
 
----
-
-## 📩 Let’s Connect
-
-Always open to learning, collaboration, and thoughtful conversations around data and AI.
-
-- 💼 LinkedIn: https://www.linkedin.com/in/jazila-begum-175a2029b  
-- 💻 GitHub: https://github.com/jazila-begum  
-- 📧 Email: jazilabegum@gmail.com
